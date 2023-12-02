@@ -1,0 +1,26 @@
+{
+  "name": "getonly",
+  "version": "1.0.0",
+  "description": "Getting only a certain data type from a string",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitryfeel/getonly.git"
+  },
+  "keywords": [
+    "get",
+    "only",
+    "certain",
+    "data",
+    "type"
+  ],
+  "author": "Dmitry Feel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitryfeel/getonly/issues"
+  },
+  "homepage": "https://github.com/dmitryfeel/getonly#readme"
+}
